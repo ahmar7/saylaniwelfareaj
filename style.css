@@ -1,0 +1,345 @@
+ body{
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+ .header{
+    background-color: rgb(48, 109, 216);
+    margin: 0px auto 0px auto;
+    /* border-bottom: 2px solid rgb(48, 109, 216); */
+    position: relative;
+    
+    left: -8px;
+    right: 19px;
+    bottom: 16px;
+    
+} 
+.heading{
+    display: inline-block;
+    margin: 10x auto 10x auto;
+    color: rgb(238, 238, 247);
+    position:relative;
+    bottom: 30px;
+    left: 450px;
+    right: 400px;
+  
+}
+.icon{
+    margin-left: 20px;
+}
+.smit{
+    border: 1.5px lightgreen solid;
+    background-color: white;
+    width: 10px;
+    height: 10px;
+    padding: 1px 2px 2px 2px;
+    position:relative;
+    bottom: 09px;
+    left: 336px;
+    right: 400px;
+    text-shadow: 1px 1px 1px lightgreen;
+    font-size: 90%;
+
+  
+}
+.icon{
+    margin: 5px 20px 10px auto;
+    display: inline-block;
+   
+}
+
+.now{
+    border: 1.5px lightgreen solid;
+    background-color: white;
+    width: 10px;
+    height: 10px;
+    padding: 1px 2px 2px 2px;
+    position:relative;
+    top: -33px;
+    left: 504px;
+    right: 400px;
+    text-shadow: 1px 1px 1px lightgreen;
+    font-size: 90%;
+    
+    
+    }
+
+
+.uk{
+    border: 1.5px lightgreen solid;
+    background-color: white;
+    width: 10px;
+    height: 10px;
+    padding: 1px 2px 2px 2px;
+    position: relative;
+    bottom: 33px;
+    left: 500px;
+    text-decoration: none;
+    text-shadow: 1px 1px 1px lightgreen;
+    font-size: 90%;
+}
+#navigation{
+    margin-left: 300px;
+    margin-right: 100px;
+ 
+   
+}
+.logosec{
+    padding-left: 140px;
+    
+}
+.logo{
+    padding-left: 10px;
+}
+.navigation{
+    display: inline-block;
+    margin-left: 20px;
+   margin-top: 10px;
+   
+
+}
+.navigation:hover{
+    border: 1px solid rgb(48, 109, 216) ;
+    border-radius: 20px;
+    background-color: rgb(48, 109, 216);
+    padding-bottom: 4px;
+    padding-top: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+    
+    
+}
+.naviga:hover{
+    color: white;
+}
+.naviga{
+    font-size: 17px;
+    text-decoration: none;
+    color: black;
+}
+
+
+.img{
+    float: left;
+ 
+ }
+ .coverimg{
+    position: relative;
+    left: -8px;
+    right: 19px;
+ }
+ .news{
+     background-color: rgb(48, 109, 216);
+     color: white;
+     text-align: center;
+     margin-left: 40px;
+     margin-right: 40px ;
+ }
+ .introduction{
+     text-align: center;
+     margin-top: 50px;
+ }
+ .intro{
+   color:rgb(48, 109, 216) ;
+ }
+ .duction{
+   color: green;
+ }
+ .favicon{
+     text-align: center;
+ }
+ .paragraph{
+     text-align: justify;
+     color:grey;
+     margin: auto 140px auto 140px ;
+     word-spacing: 0.2em;
+    
+     
+ }
+ .details{
+     margin-bottom: 75px;
+     
+ }
+ .information{
+     font-family: sans-serif;
+     background-color:rgb(48, 109, 216) ;
+     height: 500px;
+     margin-left: -8px;
+     padding-right: 234px;
+
+  }
+  .food{
+    position: relative;
+    top: 100px;
+    left:230px ;
+    
+}
+.fnum{
+  position: relative;
+  top:70px ;
+  left:160px ;
+  color: white;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 50px;
+  font-weight: lighter;
+  margin-right: 400px;
+}
+.fmonth{
+  position: relative;
+  top:30px ;
+  left:100px ;
+  color: white;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+   text-transform: uppercase; 
+   margin-right: 400px;}
+  
+   
+
+.month{
+   color:rgb(128, 255, 0);
+}
+.anum{
+  position: relative;
+  bottom:95px ;
+  left:600px ;
+  color: white;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 50px;
+  font-weight: lighter;
+  margin-right: 400px;
+}
+.amonth{
+  position: relative;
+  bottom: 115px ;
+  left:550px ;
+  color: white;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  margin-right: 400px;
+}
+.month2{
+  color:rgb(128, 255, 0);
+}
+.family{
+  position: relative;
+  bottom: 70px;
+  left: -100px;
+} 
+.box{
+    margin-top: 220px;
+    background-color: white;
+    box-shadow: 0px 0px 15px gray;
+    display: inline-block;
+    height: 180px;
+    width: 400px;
+    margin: 10px 10px 10px auto;
+}
+.link{ 
+    display: inline-block;
+    font-weight: bold;
+  font-size: 20px;
+  color:rgb(48, 109, 216);
+  position: relative;
+  top: 30px;
+  right: 80px;
+  
+}
+#box{
+    margin-top: 30px;
+}
+.image{
+    margin-top: 20px;
+    margin-left: 60px;
+}
+.medical{
+ color: rgb(48, 109, 216);
+ width: 70%;
+ margin-left: 45px;
+ margin-bottom: 60px;
+ margin-top: 60px;
+
+ 
+}
+.medico{
+    border:1px solid rgb(212, 208, 208);
+    margin: 10px 25px 10px auto;
+    background-color: rgb(235, 231, 231);
+    /* box-shadow: 0px 0px 15px gray; */
+    display: inline-block;
+    height: 70px;
+    width: 350px;
+}
+
+.none{
+    display: inline-block;
+    font-weight: bold;
+  font-size: 15px;
+  color:rgb(48, 109, 216) ;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left: 30px;
+}
+.med{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.upcomming{
+    position: absolute;
+    top:2460px;
+    left: 900px;
+    /* bottom: 330px; */
+    float: right;
+    
+}
+.events{
+    color: rgb(48, 109, 216);
+  font-size: 25px;
+}
+.test{
+   
+    display: inline-block;
+    margin: 10px 25px 10px auto ;
+    width: 350px;
+    height:100px;
+    color: grey;
+    word-spacing: 0.5em;
+}
+.gallery{
+    margin-top: 150px;
+    margin-bottom: 50px ;
+}
+.click{
+    
+}
+.service{
+    display: inline-block;
+    
+}
+footer{
+    margin-top: 200px;
+    margin-left: -10px;
+}
+.footer{
+    background-color: rgb(32, 32, 40);
+    height: 350px;
+}
+.office{
+    color: rgb(161, 160, 160);
+    margin-left: 120px;
+  margin-top: 20px;
+}
+.contact{
+    color: rgb(161, 160, 160);
+    margin-left: 100px;
+  margin-top: 20px;
+  list-style:circle
+}
+.right{
+    background-color: rgb(48, 109, 216);
+    height: 44px;
+    margin-bottom: -10px;
+}
+.copy{
+    margin-bottom: 10px;
+    margin-left:80px ;
+    color: honeydew;
+}

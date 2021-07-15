@@ -1,0 +1,55 @@
+.food{
+    position: relative;
+    top: 100px;
+    left:230px ;
+    
+}
+.fnum{
+  position: relative;
+  top:70px ;
+  left:160px ;
+  color: white;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 50px;
+  font-weight: lighter;
+}
+.fmonth{
+  position: relative;
+  top:30px ;
+  left:100px ;
+  color: white;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+   text-transform: uppercase; }
+  
+
+.month{
+   color:rgb(128, 255, 0);
+}
+.anum{
+  position: relative;
+  bottom:95px ;
+  left:600px ;
+  color: white;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 50px;
+  font-weight: lighter;
+
+}
+.amonth{
+  position: relative;
+  bottom: 115px ;
+  left:550px ;
+  color: white;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+.month2{
+  color:rgb(128, 255, 0);
+}
+.family{
+  position: relative;
+  bottom: 70px;
+  left: 300px;
+
+} 
